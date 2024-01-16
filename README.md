@@ -1,7 +1,7 @@
 Hi 👋 My name is Anna
 =====================
 
-Full-Stack passionate developer turning food into lines of code.
+Full-Stack passionate developer turning food into lines of code
 ----------------------------------------------------------------
 
 Who am I? A passionate software engineering student studying at VIA University in Denmark, whose dream is to become a full-stack developer, expand her current skills and knowledge, and gain as much experience as possible.
@@ -10,7 +10,7 @@ Who am I? A passionate software engineering student studying at VIA University i
 * ✉️  You can contact me at [andrlova.info@gmail.com](mailto:andrlova.info@gmail.com)
 * 🧠  I'm learning React and boosting my knowledge in .NET Core
 * 🤝  I'm open to collaborating on any interesting project
-* ⚡  Enthusiasts for any kind of sport or adventure
+* ⚡  Enthusiast for any kind of sport or adventure
 
 ### Skills
 
